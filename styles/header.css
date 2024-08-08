@@ -1,0 +1,6 @@
+.cabeçalho__menu-hamburger {
+    width: 24px;
+    height: 24px;
+    background-image: url(../imagens/Página\ inicial\ -\ MENU.png);
+    display: inline-block;
+}
