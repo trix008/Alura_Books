@@ -1,7 +1,9 @@
 .cabeçalho__menu-hamburger {
     width: 24px;
 height: 24px;
-background-image: url("../imagens/Menu.svg");
+background-image: url("../imagens/menu.svg");
+background-repeat: no-repeat;
+background-position: center;
 display: inline-block
 }
 .cabeçalho{
@@ -13,4 +15,7 @@ display: inline-block
 .container{
     display: flex;
     align-items: center;
+}
+.container_imagem{
+    padding: 1em;
 }
